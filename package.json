@@ -10,6 +10,6 @@
   "author": "Musa Abdillah",
   "license": "MIT",
   "devDependencies": {
-    "jest-cli": "19.0.2"
+    "jest-cli": "29.3.1"
   }
 }
